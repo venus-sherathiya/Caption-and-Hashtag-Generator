@@ -7,6 +7,6 @@ The application works as follows: User uploads pictures to be shared on social m
 
 Tools: The application is developed using Django in the backend and JavaScript in the frontend. Few AWS components like S3, Rekognition API and Elastic BeanStalk are used. Elastic Search is also used to store the captions and hashtags for future. All APIs used here are REST APIs.
 
-The backend code can be viewed here:
+The backend code can be viewed here: [Backend]()
 
-The frontend code for various pages can be viewed here:
+The frontend code for various pages can be viewed here: [Frontend](https://github.com/venus-sherathiya/Caption-and-Hashtag-Generator/tree/master/uploads/templates/core)
